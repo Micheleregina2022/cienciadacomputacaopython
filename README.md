@@ -1,6 +1,17 @@
 # cienciadacomputacaopython
-Nesse repositório estão todos os exercícios realizados no curso de Introdução à Ciência da Computação (Parte1). O conteúdo pode ser identificado no próprio título e os códigos mais complexos estão comentados.
+Este repositório é resultado do meu primeiro passo para a análise de dados com Python. Aqui contém todos os exercícios realizados no curso de Introdução à Ciência da Computação em Python. Os códigos mais complexos estão devidamente comentados.
 
-Breve resumo do que foi visto: Na primeira semana do curso foi abordada uma noção do que será o curso e uma visão geral sobre a área da computação e a linguagem Python. Na Semana 2, continuamos com a introdução à linguagem de programação Python. Aprendemos o que são variáveis, os tipos de dados existentes e para que servem os comandos input e print. Fizemos também nosso primeiro programa. Na semana 3 estudamos os desvios condicionais que é possível implementar em seus programas, usando o comando "if..else". Além disso, estudamos variáveis e expressões booleanas. Na semana 4, começmos vendo como é feito um programa quando temos repetição de código. Trabalhamos com indicadores de passagem e aprenderemos a utilizar o depurador (Debbuger) que faz o acompanhamento da execução do programa, auxiliando o entendimento e a detecção de possíveis erros. Na semana 5, aprendemos a fazer e utilizar funções.
-Na sexta semana vimos como melhorar programas através de refatoração e da utilização do depurador para acompanhar o funcionamento de funções. Na semana 7 aprendemos que existem situações em que precisamos trabalhar com repetições de repetições. Na oitava semana, vimos que precisamos trabalhar com um conjunto de dados, utilizamos listas e aprendemos como as listas funcionam com, por exemplo, o comando "for".
-Terminamos na semana 9 com uma breve discussão sobre como os objetos são armazenados na memória do computador e mais um programa completo (COH-PIAH).
+Resumo do conteúdo abordado:
+
+Semana 1: Introdução ao curso e visão geral da área de computação e da linguagem Python.
+Semana 2: Continuação da introdução à linguagem Python, abordando variáveis, tipos de dados, comandos input e print, e realização do primeiro programa.
+Semana 3: Estudo de desvios condicionais usando o comando "if..else", variáveis e expressões booleanas.
+Semana 4: Introdução à repetição de código, utilização de indicadores de passagem e depuração do programa com o auxílio do depurador (Debugger) para identificação de erros.
+Semana 5: Aprendizado e utilização de funções.
+Semana 6: Melhoria de programas por meio de refatoração e utilização do depurador para acompanhar o funcionamento das funções.
+Semana 7: Trabalho com repetições aninhadas.
+Semana 8: Utilização de listas para lidar com conjuntos de dados, incluindo o uso do comando "for".
+Semana 9: Discussão sobre o armazenamento de objetos na memória do computador e implementação de um programa completo chamado COH-PIAH.
+
+
+
